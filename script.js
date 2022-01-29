@@ -28,6 +28,6 @@ function dragLeave(){
     console.log("dragLeave")
 }
 function dragDrop(){
-    
+    console.log("..")
 }
 
